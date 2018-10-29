@@ -1,0 +1,43 @@
+.navbar-inverse {
+    background-color: #d7711b;
+    border-color: #e16618;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.btn
+{
+  color:#fff;
+   background-color: #d7711b;
+    border-color: #d7711b;
+    width: 130px;
+}
+.btn:hover {
+    color: #fff;
+    background-color: #d7711b;
+    border-color: #d7711b;
+}
+.card
+{
+    background-color: #fff;
+    box-shadow: 0 4px 8px 5px rgba(0,0,0,0.2);
+    height:280px;
+    margin-top: 27px;
+    width: 379px;
+    margin-left: 28px;
+}
+.form-control
+{
+  width: 340px !important;
+  margin-left: 5px;
+}
+.heading
+{
+      line-height: 60px; 
+      background-color:  #d7711b;
+      color:#fff;
+}
+label
+{
+  margin-left:5px;
+}
